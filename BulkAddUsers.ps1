@@ -1,5 +1,5 @@
 #Variables
-$CSVPath  ="C:\Users\joech\OneDrive\Documents\PS_Scripts\ListOfUsers.csv"
+$CSVPath  ="C:\Users\PS_Scripts\ListOfUsers.csv"
  
 #Get data from CSV
 $CSVData = Import-Csv $CSVPath
